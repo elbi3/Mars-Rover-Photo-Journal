@@ -1,6 +1,7 @@
 # Mars Rover Photo Journal
 
-About this project
+## About this project
+
 This is a revived personal project originally built in 2023 using SSR with Express.js and EJS template engine library.
 The original repository is no longer maintained.
 This version updates dependencies and restores functionality while preserving the original design and server-side rendering approach. It uses old, mock data to compensate for the NASA API no longer being maintained.
