@@ -1,8 +1,8 @@
-
+.dockerignore
+Dockerfile
 
 # Dependency directories
 /node_modules
-/data
 /docs
 
 .env

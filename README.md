@@ -1,13 +1,15 @@
 # Mars Rover Photo Journal
 
-This project is a server rendered application deployed to Heroku using Express.js running on Node.js with the EJS template engine library.
+About this project
+This is a revived personal project originally built in 2023 using SSR with Express.js and EJS template engine library.
+The original repository is no longer maintained.
+This version updates dependencies and restores functionality while preserving the original design and server-side rendering approach. It uses old, mock data to compensate for the NASA API no longer being maintained.
 
 ## Tech Stack, Tools, and Libraries
 
 ![Static Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=black&color=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ejs-a91e50?style=for-the-badge&logo=ejs&logoColor=#b4ca66&color=#a91e50)
 ![Static Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -17,7 +19,7 @@ This project is a server rendered application deployed to Heroku using Express.j
 ## View App
 
 ### Deployed App
-- [Link](https://mars-rovers-photo-journal-2b03be7a42c1.herokuapp.com/perseverance) to Mars Rover Photo Journal
+- [Link](https://----) to Mars Rover Photo Journal
 
 ### Screenshots
 <img width="1344" alt="rovers app screenshot" src="https://github.com/ElBrewster/Mars-Rover-Photo-Journal/assets/113723085/6a502373-808c-4432-b800-3d5536a5a1cf">
@@ -43,6 +45,15 @@ Robert Bunch's [course](https://gale.udemy.com/course/just-express-with-a-bunch-
 
 This app was made by El Brewster ✨
 
-You can find me at:
-[![Static Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=%23181717&color=white&link=https%3A%2F%2Fgithub.com%2FElBrewster)](https://github.com/ElBrewster)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fel-brewster%2F)](https://www.linkedin.com/in/el-brewster/)
+---
+
+### Updates
+#### Updated Data Flow:
+
+routes/index.js
+        ↓
+services/rovers.js
+        ↓
+data/sol1000Data.js
+
+---
