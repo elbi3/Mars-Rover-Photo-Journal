@@ -20,7 +20,7 @@ This version updates dependencies and restores functionality while preserving th
 ## View App
 
 ### Deployed App
-- [Link]([https://----](https://mars-rover-photo-journal.onrender.com/)) to Mars Rover Photo Journal
+- [Link](https://mars-rover-photo-journal.onrender.com/) to Mars Rover Photo Journal
 
 ### Screenshots
 <img width="1344" alt="rovers app screenshot" src="https://github.com/ElBrewster/Mars-Rover-Photo-Journal/assets/113723085/6a502373-808c-4432-b800-3d5536a5a1cf">
